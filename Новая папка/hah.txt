@@ -1,0 +1,3 @@
+print{"Hello"}
+print{"Hey"}
+print"я знову в ділі"
