@@ -1,0 +1,119 @@
+body{
+    width: 1366px;
+    height: 768px;
+    background: rgb(247, 247, 247);
+}
+
+header{
+    width: 1366px;
+    height: 83px;
+    background: rgb(74, 139, 245);
+    float: left;
+}
+
+.kl{
+    color: #ffffff;
+    font: 400 24px Arial;
+    width: 513px;
+    height: 18px;
+    float: left;
+    margin-left: 24px;
+    margin-top: 35px;
+}
+
+.gi{
+    float: left;
+    width: 169px;
+    height: 18px;    
+    color: #ffffff;
+    font: 400 24px Arial;
+    margin-left: 600px;
+    margin-top: 35px;
+}
+
+.osn{
+    height: 685px;
+    
+}
+
+.stvorzap {
+    float: left;
+    width: 554px;
+    height: 38px;
+    background: url(Layer-4.png);
+    color: #4a8bf5;
+    font: 400 20px Arial;
+    box-shadow: 0px 0px 1.96px 0.04px rgba(0, 0, 0, 0.75);
+    margin: 0 auto;
+    margin-top: 42px;
+    margin-left: 422px;
+    padding-top: 20px;
+    padding-left: 16px;
+}
+
+.piko{
+    width: 567px;
+    height: 55px;
+    margin-top: 12px;
+    margin-left: 422px;
+    float: left;
+    
+}
+
+.g{
+    width: 24px;
+    height: 21px;
+    background: url(Layer-5.png);
+    float: right;
+    
+}
+
+.plus{
+    width: 21px;
+    height: 20px;
+    background: url(dfdf.png);
+    float: right;
+   
+}
+
+.labone,
+.labtwo{
+    width: 551px;
+    height: 178px;
+    background: url(Layer-4-copy.png);
+    margin-top: 42px;
+    margin-left: 422px;
+    float: left;
+    color: #4a8bf5;
+    font: 400 24px Arial;
+    
+    padding-left: 16px;
+}
+
+.koment{
+    width: 214px;
+    height: 19px;
+    color: #4a8bf5;
+    font: 400 20px Arial;
+    margin-top: 32px;
+    margin-left: 622px;
+    float: left;
+}
+
+.zel{
+    width: 89px;
+    height: 89px;
+    background: url(Layer-8.png);
+    float: right;
+    margin-bottom: 25px;
+    margin-right: 25px;
+}
+
+.sun{
+    width: 89px;
+    height: 89px;
+    background: url(Layer-7.png);;
+    float: right;
+    margin-bottom: 25px;
+    margin-right: 25px;
+}

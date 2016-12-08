@@ -1,0 +1,129 @@
+body{
+    width: 1366px;
+    height: 768px;
+    background: rgb(247, 247, 247);
+}
+
+header{
+    width: 1366px;
+    height: 83px;
+    background: rgb(74, 139, 245);
+    float: left;
+}
+
+.kl{
+    color: #ffffff;
+    font: 400 24px Arial;
+    width: 71px;
+    height: 18px;
+    float: left;
+    margin-left: 24px;
+    margin-top: 35px;
+}
+
+.poisk{
+    width: 210px;
+    height: 38px;
+    background: url(Layer-9.png);
+    float: left;
+    margin-left: 457px;
+    margin-top: 26px;
+    font: 400 20px Arial;
+    padding-left: 35px;
+}
+
+.gi{
+    float: left;
+    width: 169px;
+    height: 18px;    
+    color: #ffffff;
+    font: 400 24px Arial;
+    margin-left: 371px;
+    margin-top: 35px;
+}
+
+.osn{
+    height: 570px;   
+}
+
+.tspp,
+.tkp,
+.sapr,
+.msto,
+.iad,
+.ms{
+    width: 250px;
+    height: 163px;    
+    float: left;
+    margin-top: 55px;
+    margin-left: 74px;
+}
+
+.po{
+    color: #ffffff;
+    font: 400 20px Arial;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.pi{
+    color: #ffffff;
+    font: 400 14px Arial;
+    padding-left: 16px;
+    padding-right: 16px;
+    position: relative;
+    top: 25px;
+    padding-bottom: 10px;
+}
+
+.pik{
+    color: #ffffff;
+    font: 400 14px Arial;
+    padding-left: 16px;
+    padding-right: 16px;
+    position: relative;
+    top: 10px;
+    padding-bottom: 10px;
+}
+
+.tspp{
+    background: rgb(241, 63, 63);
+}
+
+.tkp{
+    background: rgb(134, 193, 86);
+}
+
+.sapr{
+    background: rgb(58, 104, 179);
+}
+
+.msto{
+    background: rgb(237, 177, 33);
+}
+
+.iad{
+    background: rgb(166, 34, 171);
+}
+
+.ms{
+    background: rgb(56, 104, 179);
+}
+
+.zel{
+    width: 89px;
+    height: 89px;
+    background: url(Layer-8.png);
+    float: right;
+    margin-bottom: 25px;
+    margin-right: 25px;
+}
+
+.sun{
+    width: 89px;
+    height: 89px;
+    background: url(Layer-7.png);;
+    float: right;
+    margin-bottom: 25px;
+    margin-right: 25px;
+}

@@ -1,0 +1,71 @@
+.conteyner {
+    width: 1366px;
+    background: white;
+}
+
+.logo{
+    width: 1366px;
+    height: 193px;
+}
+
+.logos{
+    width: 134px;
+    height: 158px;
+    margin: 0 auto;
+    background: url(images/sdds.png);
+    margin-top: 35px;
+}
+
+.nazva{
+    width: 323px;
+    height: 52px;
+    color: #498af3;
+    font: 400 26px Arial;
+    align-content: center;
+    margin: 0 auto;
+    margin-top: 15px;
+}
+
+.forma {
+    height: 365px;
+    width: 325px;
+    background-color: rgb(167, 197, 246);
+    margin: 0 auto;
+    margin-top: 20px;
+    
+}
+
+.mail,
+.pas{
+    width: 288px;
+    height: 54px;
+    margin: 0 auto;
+    margin-top: 25px;
+    border-radius: 5px;
+    margin-left: 17px;
+    color: #4b8df9;
+    font: 400 20px Arial;
+}
+
+.in,
+.inv{
+    width: 281px;
+    height: 42px;   
+    background: rgb(72, 137, 240);
+    color: #ffffff;
+    font: 400 20px Arial;
+    margin: 0 auto;
+    
+    margin-left: 21px;
+}
+
+.in{
+    margin-top: 15px;
+}
+
+.forma p{
+    color: #498bf4;
+    font: 400 20px Arial;
+    margin-left: 143px;
+    margin-top: 15px;
+}
